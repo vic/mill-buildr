@@ -1,6 +1,6 @@
-# Mill buildr module.
+# [Mill](https://github.com/com-lihaoyi/mill) buildr module.
 
-An small [Mill](https://github.com/com-lihaoyi/mill) module that lets you define 
+An small[Mill module](https://github.com/vic/mill-buildr/blob/main/BuildrModule.sc) that lets you define 
 big project structures as a regular scala project itself.
 
 Forget about large `build.sc` files or magic-importing lots of different `.sc` files, 

@@ -49,6 +49,8 @@ Then, define a `buildr` project where all your project modules will live as `.sc
 And finally load the `buildr` runtime so you can define top-level objects in mill.
 
 
+The following is annotated example, you might remove all comments once you are up and running.
+
 <!-- Keep updated with the raw contents of build.sc from this repo. -->
 ```scala
 // This is build.sc file.
